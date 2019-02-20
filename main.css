@@ -1,0 +1,20 @@
+.list {
+    display: flex;
+  justify-content: space-around;
+    
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+  
+}
+
+.shop {
+    border: 1px solid black;
+    height: 30px;
+    width: 500px;
+}
+
+.pageHeader {
+    display: flex;
+    justify-content: center;
+}
